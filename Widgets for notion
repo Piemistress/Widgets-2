@@ -121,7 +121,6 @@
       </div>
       <!-- End facebook Icon -->
 
-
       <!-- Start instagram Icon -->
       <div id="instagram" onclick="navigate(this.id)" class="social instagram">
         <span class="icon"><i class="fab fa-instagram"></i></span>
@@ -140,13 +139,11 @@
       </div>
       <!-- End twitter Icon -->
 
-
       <!-- Start reddit Icon -->
       <div id="reddit" onclick="navigate(this.id)" class="social reddit">
         <span class="icon"><i class="fab fa-reddit"></i></span>
       </div>
       <!-- End reddit Icon -->
-
 
       <!-- Start pinterest Icon -->
       <div id="pinterest" onclick="navigate(this.id)" class="social pinterest">
